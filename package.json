@@ -1,0 +1,38 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hardhat": "^2.18.0"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.7",
+    "dotenv": "^16.3.1",
+
+    "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers@^0.3.0-beta.13",
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
+
+
+    "chai": "^4.3.4",
+
+
+    "hardhat-contract-sizer": "^2.4.0",
+    "hardhat-deploy": "^0.9.29",
+
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.6",
+    "solhint": "^3.3.6"
+
+  }
+}
